@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hallpedia.vercel.app/sitemap.xml
